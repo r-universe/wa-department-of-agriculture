@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "washi"]
+	path = washi
+	url = https://github.com/wa-department-of-agriculture/washi
+	shallow = true
+	registered = true
