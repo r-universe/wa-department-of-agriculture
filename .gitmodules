@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wa-department-of-agriculture/universe
 	branch = HEAD
+[submodule "WaCSE"]
+	path = WaCSE
+	url = https://github.com/WA-Department-of-Agriculture/WaCSE
+[submodule "soils"]
+	path = soils
+	url = https://github.com/WA-Department-of-Agriculture/soils
 [submodule "washi"]
 	path = washi
-	url = https://github.com/wa-department-of-agriculture/washi
+	url = https://github.com/WA-Department-of-Agriculture/washi
