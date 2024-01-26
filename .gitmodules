@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/wa-department-of-agriculture/universe
+	url = https://github.com/wa-department-of-agriculture/wa-department-of-agriculture.r-universe.dev
 	branch = HEAD
 [submodule "WaCSE"]
 	path = WaCSE
